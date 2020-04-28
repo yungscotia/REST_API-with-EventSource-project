@@ -36,7 +36,7 @@ Coding tests are often contrived, and this exercise is no exception. To the best
 
 
 
-##Setup for this REST API
+## Setup for this REST API
 
 Things you'll need to run this project:
 * A basic understanding of GitHub commands and of your computer's terminal commands
