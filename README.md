@@ -79,7 +79,7 @@ and you should see several tests pass (hopefully) and log some information in yo
 This should solve this problem and allow you to run `npm test` successfully. On Windows, I ran into an issue where I had to restart my terminal and then run `npm install -g mocha` a second time to get `npm test` to work. On Mac, I had no issues.
 
 
-##Server Features
+## Server Features
 
 Now that you have the server up and running (`npm start`), the server can respond in several ways. Navigate in your browser or any sort of API testing application (like Postman) and type in one of these 4 URLs.
 
