@@ -58,23 +58,23 @@ This should download and create a folder with all the project files needed to se
 
 The server has been built on a Node and Express framework. In order to start up the server you'll first need to install Node.js (found here: https://nodejs.org/en/). Once Node.js has been installed, you'll need to install certain package dependencies to have the files run properly. Do this by typing:
 
-        `npm install`
+        npm install
 
 This will install several dependencies like Express.js (needed to run the server), EventSource (needed to subscribe to a data stream), and Mocha (to help test certain features of the server) just to name a few. 
 
 Good news! You're pretty much done with the setup for running this server! Now, just run the command:
 
-        `npm start`
+        npm start
 
 and the start script outlined in package.json will start up the server for you. If you'd like to run some of the automated tests I've built just type:
 
-        `npm test`
+        npm test
 
 and you should see several tests pass (hopefully) and log some information in your terminal/console. 
 
 **Note:**If you run into an issue where your terminal indicates that `mocha` isn't a valid internal or external command try running:
 
-        `npm install -g mocha`
+        npm install -g mocha
 
 This should solve this problem and allow you to run `npm test` successfully. On Windows, I ran into an issue where I had to restart my terminal and then run `npm install -g mocha` a second time to get `npm test` to work. On Mac, I had no issues.
 
