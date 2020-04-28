@@ -50,11 +50,11 @@ To first get the server up and running, you'll need to get the files from GitHub
 
 First, navigate to a directory where you're comfortable saving this project and where GitHub has been initialized. Then type:
 
-        `git clone https://github.com/launchdarkly/coding-test-Nova-Quaoser.git`
+        `git clone https://github.com/yungscotia/REST_API-with-EventSource-project.git`
 
-This should download and create a folder with all the project files needed to set up the REST API. Once that's done, you should default be on the branch named `master`. You'll want to switch over to the branch named `nova-quaoser-work` by typing:
+This should download and create a folder with all the project files needed to set up the REST API. Once that's done, you should default be on the branch named `master`. If not, you'll want to switch over to that branch by typing:
 
-        `git checkout nova-quaoser-work`
+        `git checkout master`
 
 The server has been built on a Node and Express framework. In order to start up the server you'll first need to install Node.js (found here: https://nodejs.org/en/). Once Node.js has been installed, you'll need to install certain package dependencies to have the files run properly. Do this by typing:
 
