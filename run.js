@@ -1,3 +1,6 @@
+/*Imports*/
 const start = require('./server');
+const testData = require("./Test/testdata");
 
-start([]);
+/*run server*/
+start();

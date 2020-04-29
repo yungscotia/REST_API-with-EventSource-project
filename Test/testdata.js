@@ -1,3 +1,4 @@
+/*Dummy data for testing*/
 let testData = [
     {studentId: "Ronnie", exam: 65, score: 10},
     {studentId: "Lonnie", exam: 65, score: 10},
@@ -14,6 +15,7 @@ let testData = [
 
 ];
 
+/*Transfer dummy data into 2 Maps to test Map functionalities*/
 let testStudentMap = new Map();
 let testExamMap = new Map()
 
