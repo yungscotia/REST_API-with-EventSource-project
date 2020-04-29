@@ -1,5 +1,5 @@
 {
-  "name": "coding-test-nova-quaoser",
+  "name": "REST API Coding Project",
   "version": "1.0.0",
   "description": "A Nifty Lil REST API To Handle Students' Test Scores!",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/launchdarkly/coding-test-Nova-Quaoser.git"
+    "url": "git+https://github.com/yungscotia/REST_API-with-EventSource-project.git"
   },
   "keywords": [
     "restful",
@@ -18,9 +18,9 @@
   "author": "Nova Quaoser",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/launchdarkly/coding-test-Nova-Quaoser/issues"
+    "url": "https://github.com/yungscotia/REST_API-with-EventSource-project.git/issues"
   },
-  "homepage": "https://github.com/launchdarkly/coding-test-Nova-Quaoser#readme",
+  "homepage": "https://github.com/yungscotia/REST_API-with-EventSource-project.git/readme",
   "dependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
