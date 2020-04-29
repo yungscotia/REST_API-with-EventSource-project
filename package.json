@@ -1,5 +1,5 @@
 {
-  "name": "REST API Coding Project",
+  "name": "rest-api-coding-project",
   "version": "1.0.0",
   "description": "A Nifty Lil REST API To Handle Students' Test Scores!",
   "main": "index.js",
