@@ -37,7 +37,7 @@ and you should see several tests pass (hopefully) and log some information in yo
 
 **Note:**If you run into an issue where your terminal indicates that `mocha` isn't a valid internal or external command try running:
 
-        `npm install -g mocha`
+        npm install -g mocha
 
 This should solve this problem and allow you to run `npm test` successfully. On Windows, I ran into an issue where I had to restart my terminal and then run `npm install -g mocha` a second time to get `npm test` to work. On Mac, I had no issues.
 
