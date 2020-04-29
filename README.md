@@ -1,4 +1,4 @@
-##Setup for this REST API
+## Setup for this REST API
 
 Things you'll need to run this project:
 * A basic understanding of GitHub commands and of your computer's terminal commands
@@ -12,7 +12,7 @@ To first get the server up and running, you'll need to get the files from GitHub
 
 First, navigate to a directory where you're comfortable saving this project and where GitHub has been initialized. Then type:
 
-        `git clone https://github.com/launchdarkly/coding-test-Nova-Quaoser.git`
+        git clone 
 
 This should download and create a folder with all the project files needed to set up the REST API. Once that's done, you should default be on the branch named `master`. You'll want to switch over to the branch named `nova-quaoser-work-final` by typing:
 
