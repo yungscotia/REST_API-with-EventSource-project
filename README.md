@@ -2,7 +2,7 @@
 
 Things you'll need to run this project:
 * A basic understanding of GitHub commands and of your computer's terminal commands
-* The project files from GitHub (https://github.com/launchdarkly/coding-test-Nova-Quaoser.git)
+* The project files from GitHub (https://github.com/yungscotia/REST_API-with-EventSource-project.git)
 * Node.js
 * A browser or API testing application (like Postman)
 * The power of friendship and a can-do attitude!
