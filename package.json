@@ -24,7 +24,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
-    "eventsource": "^1.0.7",
+    "eventsource": "^2.0.2",
     "express": "^4.17.1",
     "http-status": "^1.4.2",
     "minimist": "^1.2.5",
